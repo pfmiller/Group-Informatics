@@ -1,3 +1,5 @@
+#!/usr/bin/env Rscript 
+
 ## Look at the networksis package for this data...
 ## Quite a gap between methods used in journals and the methods that
 ## are available for use.  R plays a role 
