@@ -1,12 +1,32 @@
+## Always a good practice to release old data from memory
+rm(list=ls(all=TRUE))
+
+
+# Load the libraries you need
 library(stringr)
+
 
 ####This file assigns the name of your file which is in quotes to inputfile
 ####I use this syntax in case I want to read in a lot of files at one
-inputfile <- "londonweek2.csv"
+
+#inputfile <- "londonweek2.csv"
+inputfile <- "londonsample.csv"
 
 ####The following piece of code reads the file which was identified above into a dataframe
 ####In R, dataframes are one of the foundational data structures that are similar to a ####spreadsheet
+
 df <- read.csv(file=inputfile)
+
+### R often consumers files of multiple different types.  The most common are .csv files and 
+### tab delimited files.  CSV files are read with read.csv(); Tab delimited files are read
+### with read.table()
+
+#inputfile2 <- "../ParticipantData/2537.csv"
+#df <- read.table(file=inputfile2, header=TRUE)
+
+#inputfile3 <- "../ParticipantData/2537.csv"
+#df <- read.csv(file=inputfile3, header=TRUE)
+
 
 ####select only the relevant columns
 
@@ -197,3 +217,4 @@ highretweet<-subset(retweettable, retweettable>500)
 ###the previous section takes about 5 second for openingceremony
 ###3 seconds for closing ceremony
 ###5 seconds for londonweek2
+

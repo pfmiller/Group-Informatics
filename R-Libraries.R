@@ -1,0 +1,6 @@
+install.packages("stringr")
+install.packages("twitteR")
+install.packages("stringr")
+install.packages("zoo")
+install.packages("statnet")
+install.packages("network")
