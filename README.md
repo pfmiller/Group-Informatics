@@ -1,4 +1,4 @@
-bigsocialdata
+Group Informatics
 =============
 
-A library of talks, sample data and code from the iConference 2013 Big Social Data Workshop
+A collection of scripts and writing aimed at developing a book and workshop series for Group Informatics. 
