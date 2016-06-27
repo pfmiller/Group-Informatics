@@ -10,8 +10,8 @@
 1. drew.paulin:nures*6xEdr57hax
 2. mariocimet: -eveChukej6That$
 3. will.riley:taTaq+5at4uthay6
-4. chrisfi:tu3equpRenu@etec 
+4. chrisfi:tu3equpRenu@etec
 5. bill-parod:Xef$s_@s3EbREsAd
 6. pmiller:r7qatr$t4a-uSW*Q
 7. alhashim.uw:##phEdr8pru6edru
-8. useradd dvputman (getting password)
+8. dvputman:cufuj$sW4WR26tUw 
