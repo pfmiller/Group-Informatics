@@ -1,0 +1,11 @@
+native_author,native_creator,datetime,d_release,Year,Month,Day,event_url,row_type,weight,Event_object_native_name
+304,304,"2005-11-15 14:45:49",0.5,2005,11,15,f48688c1-c0a8-0169-2a8c-eeea42c6a650,0,0.99,"create performance test harness"
+304,304,"2005-12-06 22:18:15",0.5,2005,12,6,f4868de8-c0a8-0169-2a8c-eeeaffbed87e,0,0.99,"fix task list drag and drop"
+467,467,"2005-12-12 22:01:55",0.5,2005,12,12,f4868ff9-c0a8-0169-2a8c-eeead5a78fce,0,0.99,"[context] make explicitly created resources interesting, and ignore others, e.g. from CVS checkout"
+304,467,"2005-12-16 11:25:20",0.5,2005,12,16,f4868ff9-c0a8-0169-2a8c-eeead5a78fce,0,0.013830269216621,"[context] make explicitly created resources interesting, and ignore others, e.g. from CVS checkout"
+304,304,"2006-01-12 13:27:30",0.5,2006,1,12,f4868ff9-c0a8-0169-2a8c-eeead5a78fce,1,0.0050128670681922,"[context] make explicitly created resources interesting, and ignore others, e.g. from CVS checkout"
+309,309,"2006-03-02 18:03:56",0.5,2006,3,2,f48697b3-c0a8-0169-2a8c-eeea02cb8a35,0,0.99,"[connector] XPlanner"
+304,309,"2006-03-07 20:41:22",0.5,2006,3,7,f48697b3-c0a8-0169-2a8c-eeea02cb8a35,0,0.0115413152219991,"[connector] XPlanner"
+143,143,"2006-03-16 00:39:46",0.5,2006,3,16,f486a10b-c0a8-0169-2a8c-eeeafd2c0308,0,0.99,"provide focus for the Breakpoints view"
+304,143,"2006-03-16 10:26:37",0.5,2006,3,16,f486a10b-c0a8-0169-2a8c-eeeafd2c0308,0,0.0408616729989433,"provide focus for the Breakpoints view"
+143,304,"2006-03-16 10:34:51",0.5,2006,3,16,f486a10b-c0a8-0169-2a8c-eeeafd2c0308,1,0.33,"provide focus for the Breakpoints view"
