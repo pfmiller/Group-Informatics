@@ -1,5 +1,4 @@
-# Working directory ".../3.  PSS Course Spring 2007 - Finish Data Analysis & Journal Submission/SNA"
-# install.packages("blockmodeling")
+# Working directory "..
 
 rm(list=ls(all=TRUE))
 library(igraph)
