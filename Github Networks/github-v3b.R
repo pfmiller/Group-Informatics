@@ -35,6 +35,8 @@ nodeArray <- c()
 # Read the Data in
 ####################################################################
 
+setwd("~/GitHub/Group-Informatics/Github Networks")
+
 gitLists <- system("ls project*edgelist.csv", intern=T)
 
 for (i in 1:length(gitLists))

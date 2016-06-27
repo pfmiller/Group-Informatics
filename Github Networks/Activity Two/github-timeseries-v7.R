@@ -20,6 +20,7 @@ library(Hmisc)
 library(reshape)
 library(Matrix)
 
+setwd("~/GitHub/Group-Informatics/Github Networks/Activity Two") 
 
 filez <- system ("ls allStuff*.csv", intern=T)
 pullerz <- system ("ls z-pullrequesters.csv", intern=T)
@@ -262,52 +263,3 @@ for (kk in 1:length(filez))
 ###############  OVERALL STATS #######################################
 ###############  VIZ SECTION #########################################
 ################## END ###############################################
-
-
-###########################################################################################
-########## work line ######################################################################
-library(directlabels)
-pc <- ggplot(gMerged, aes(timeperiodNum, inDegree-outDegree, group=person, size=betweenness, alpha=0.1))
-pc + geom_line(aes(colour = person)) + guides(colour=guide_legend(nrow=5)) + opts(legend.text = theme_text(colour="blue", size=12), legend.position="top", panel.background = theme_rect(fill = "white", colour = NA)) + scale_colour_manual(values=x) 
-### to to ### +direct.labels(parameters... )
-
-
-#### TODO:  Would like to add a data table to the plot
-data_table <- ggplot(gMerged, aes(x = inDegree-outDegree, y = factor(person),
-     label = format(value, nsmall = 1), colour = person)) +
-     geom_text(size = 3.5) + theme_bw() + scale_y_discrete(formatter = abbreviate)
-     #limits = c("Minneapolis", "Raleigh", "Phoenix")) +
-     opts(panel.grid.major = none 
-         #+ opts(plot.margin = unit(c(-0.5, 1, 0, 0.5), "lines")) 
-         + xlab(NULL) + ylab(NULL))
-         
-data_table <- ggplot(gMerged, aes(outDegree, factor(person)))
-     + theme_bw()
-     
-##TODO - Larger color palette or split into multiple groups.
-
-############
-## summary statistics
-############
-aggdata <- aggregate(meltedB, by=list(meltedB$person, meltedB$variable), FUN=sd)
-
-
-########## work line ######################################################################
-###########################################################################################
-
-
-#+opts(legend.text = theme_text(colour="blue", size=12), legend.position="top")
-
-
-#identify(pc$timeperiodNum,pc$betweenness,labels=pc$person)
-###############  VIZ SECTION #########################################
-
-
-##########ARCHIVE NOTES###################
-##Converts to a matrix
-testrr <- dcast(tsamC, person~timeperiodNum, value.var="inDegree", fill=0)
-
-p <- ggplot(viztestA,aes(x=inDegree,y=timeperiodNum,label=rownames(viztestA), color=res*10, size=abs(res*10)))+xlab("Betweenness Centrality")+ylab("Eigenvector Centrality")
-
-
-

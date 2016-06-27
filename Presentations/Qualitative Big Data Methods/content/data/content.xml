@@ -1,0 +1,1200 @@
+<zuiprezi>
+  <version>7</version>
+  <zui-table>
+    <settings>
+      
+      <autoplay>
+        
+        <delay>4000</delay>
+        
+      </autoplay>
+      
+      <bounds x="-42664.16168492375" y="-27443.778784832743" width="85328.32336984748" height="54887.557569665485"/>
+      <aspectratio>off</aspectratio>
+      <languages>
+        <language>en</language>
+      </languages>
+      <mode type="normal"/>
+    </settings>
+    <object id="32_2475237" type="button" x="-1641.625625290338" y="-2390.8346137125036" r="-1.3813115480045748e-15" s="80.35756329017318" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1022.0039292730844</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>white-space</parentTemplate>
+      </meta>
+    </object>
+    <object id="2_2648233" type="button" x="-1533.3510692073514" y="-3949.428629250837" r="0" s="7.171303754229088" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>white-space</parentTemplate>
+      </meta>
+    </object>
+    <object id="14_2648233" type="text" x="-1533.6315466619058" y="-4446.431190925147" r="2.409149169036643e-15" s="46.07387187511113" class="head">
+      <height>60</height>
+      <width>238</width>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[?]]></text>
+      </p>
+      <meta>
+        <parentTemplate>white-space</parentTemplate>
+      </meta>
+    </object>
+    <object id="15_2648233" type="text" x="-1533.4072265005702" y="-4982.066466590572" r="0" s="18.499187697361005" class="strong">
+      <height>28.8</height>
+      <width>248.85</width>
+      <p align="center">
+        <text><![CDATA[what's on your radar]]></text>
+      </p>
+    </object>
+    <object id="23_2648233" type="button" x="-25592.9607669558" y="-12291.753745109958" r="3.817885519172256" s="19.290494261227053" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1096.4169381107492</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>white-space</parentTemplate>
+      </meta>
+    </object>
+    <object id="28_2648233" type="text" x="-27156.746567384464" y="-15989.864854604592" r="3.817885519172264" s="48.25371709460986" class="strong">
+      <height>28.8</height>
+      <width>-290.472</width>
+      <p>
+        <text><![CDATA[Story of the Super Bowl 2012]]></text>
+      </p>
+    </object>
+    <object id="0_2685266" type="text" x="-26806.192801053978" y="-10275.110486702872" r="3.817885519172294" s="19.344408806063775" class="body">
+      <height>309.96000000000004</height>
+      <width>719.9</width>
+      <p>
+        <text color="8028290"><![CDATA[some stats]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[retweets -  3 handles account for half RTs]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[@replies - 3 handles account for half of @replies]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[#hashtags -  #Sh%tMarkHerzlichSays (>43,000) & #commercials]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[links - 82,319 links (most shared: Katy Perry's stadium "cake" made of ham) + other sites (news, spam)]]></text>
+      </p>
+    </object>
+    <object id="0_4225793" type="button" x="-20764.16861658056" y="3782.662252695811" r="-11.887196858314036" s="13.778924472305034" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1096.4169381107492</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>white-space</parentTemplate>
+      </meta>
+    </object>
+    <object id="1_4225793" type="text" x="-24395.39032838173" y="1899.4504707844756" r="-11.887196858314008" s="34.46694078186425" class="strong">
+      <height>28.8</height>
+      <width>-181.584</width>
+      <p>
+        <text><![CDATA[game-play tweets]]></text>
+      </p>
+    </object>
+    <object id="2_4225793" type="text" x="-20055.619221537698" y="4752.694732107049" r="-11.88719685831401" s="12.579902826718495" class="body">
+      <height>340.956</height>
+      <width>1017.85</width>
+      <p>
+        <text><![CDATA[2/6/12 2:33: Manningham caught that! #SuperBowl2012 #SB46]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[2/6/12 2:33: Manningham just made the play of the game. That's Santonio Holmes in the corner of the endzone stuff. Amazing, amazing catch. #sb46]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[2/6/12 2:34: Manningham makes up for the last sideline route. #SB46]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[--------]]></text>
+      </p>
+      <p>
+        <text><![CDATA[2/6/2012  1:55 Manning sacked. Field goal time! Work on Brady in the 4th. #NFL #sb46]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[2/6/2012 1:57 Manning was sacked like a BITCH! #superbowl]]></text>
+      </p>
+    </object>
+    <object id="9_4225793" type="button" x="17419.460520809604" y="4003.1412231540935" r="11.56801261628903" s="13.77892447230504" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1096.4169381107492</w>
+        <h>597</h>
+      </size>
+      <meta>
+        <parentTemplate>white-space</parentTemplate>
+      </meta>
+    </object>
+    <object id="0_1398984" type="button" x="22310.544030982794" y="7708.436074255029" r="11.568012616289034" s="3.954405668958815" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>651.3215859030837</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="1_1398984" type="image" x="22297.8545195925" y="7790.113633485555" r="11.56801261628903" s="1.6540516172247823">
+      <source w="1408" h="1210">465116610<url>465116610.png</url></source>
+      <sourceUrl>Screen%20Shot%202013-02-12%20at%2010.29.45%20AM.png</sourceUrl>
+    <resource><id>465116610</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/6/9/32d94f6e1d623c0ab05e176f4b52e70af30e2.png</url></resource></object>
+    <object id="2_1398984" type="button" x="18977.81308511865" y="7027.633720178673" r="11.568012616289032" s="3.6822022065565" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>703.3169510181974</w>
+        <h>645.2146513746598</h>
+      </size>
+    </object>
+    <object id="10_4225793" type="text" x="17502.55547618277" y="1208.7470865279618" r="11.568012616289014" s="34.46694078186425" class="strong">
+      <height>57.6</height>
+      <width>363.75</width>
+      <p>
+        <text><![CDATA[Github: pull request communication graphs]]></text>
+      </p>
+    </object>
+    <object id="12_4225793" type="button" x="-1839.998444120802" y="12278.226646206447" r="0.27970394389478315" s="13.778924472305029" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1096.4169381107492</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>white-space</parentTemplate>
+      </meta>
+    </object>
+    <object id="0" type="image" x="-1797.8514179900303" y="13314.2151691622" r="0.2797039438947821" s="9.747017771962364">
+      <source w="514" h="514">423986822<url>423986822.png</url></source>
+      <sourceUrl>radar.png</sourceUrl>
+    <resource><id>423986822</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/e/d/2fe8c520a74e410610de7e3ae236d9fb6d88c.png</url></resource></object>
+    <object id="1_15991189" type="button" x="-3764.820863004767" y="9751.01692393752" r="0.279703943894783" s="2.159327849360125" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>4311.030927835051</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="13_4225793" type="text" x="-3829.6108121949414" y="9708.864573751118" r="0.2797039438947839" s="34.466940781864075" class="strong">
+      <height>28.8</height>
+      <width>-249.09600000000003</width>
+      <p>
+        <text><![CDATA[Twitter: below the radar]]></text>
+      </p>
+    </object>
+    <object id="15_4225793" type="button" x="17325.36769615388" y="-12271.981761553585" r="-3.8178855191722554" s="13.778924472305034" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1096.4169381107492</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>white-space</parentTemplate>
+      </meta>
+    </object>
+    <object id="2" type="image" x="15869.39051454038" y="-11956.919626592628" r="-3.8178855191722567" s="9.411935437672057">
+      <source w="1196" h="787">423990578<url>423990578.png</url></source>
+      <sourceUrl>conversation.png</sourceUrl>
+    <resource><id>423990578</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/f/a/7611c273696e0405111129201ba0c67e90473.png</url></resource></object>
+    <object id="16_4225793" type="text" x="12822.497006487843" y="-15809.317608916472" r="-3.8178855191722607" s="24.61924341561727" class="strong">
+      <height>28.8</height>
+      <width>-213.91199999999998</width>
+      <p>
+        <text><![CDATA[conversation analysis]]></text>
+      </p>
+    </object>
+    <object id="17_4225793" type="textwithplaceholder" x="14105.577321107434" y="-14849.256728755705" r="-3.817885519172287" s="11.25754925235032" class="body">
+      <placeholder text="Click to add text" x="-84.1" y="-15.45" align="left" width="168.24"/>
+    </object>
+    <object id="4" type="image" x="22994.226824578014" y="-12343.37379300471" r="-3.81788551917226" s="10.443280298837648">
+      <source w="285" h="703">423991792<url>423991792.png</url></source>
+      <sourceUrl>directions.png</sourceUrl>
+    <resource><id>423991792</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/7/2/92c452409a897488d649d5cca74bdc672fe8c.png</url></resource></object>
+    <object id="0_2690304" type="text" x="-580.5657175872954" y="-17905.46296590524" r="0" s="151.43337657334655" class="head">
+      <height>60</height>
+      <width>317.5</width>
+      <p align="center">
+        <text><![CDATA[Qualitative Analysis Techniques]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[for            data]]></text>
+      </p>
+    </object>
+    <object id="5" type="button" x="22906.628818244146" y="-17718.82564545453" r="-3.8178855191722567" s="5.073731541301804" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>402.69929921647486</w>
+        <h>232.20350307241495</h>
+      </size>
+    </object>
+    <object id="6" type="textwithplaceholder" x="22882.408977622224" y="-18184.601372425615" r="-3.8178855191722607" s="3.2979255018461697" class="head">
+      <placeholder text="Click to add text" x="-72.05" y="-15" align="left" width="144.1"/>
+    </object>
+    <object id="7" type="textwithplaceholder" x="22897.746745753386" y="-17954.76516319744" r="-3.8178855191722616" s="2.283179193585799" class="strong">
+      <placeholder text="Click to add text" x="-84.55" y="-14.4" align="left" width="169.15"/>
+    </object>
+    <object id="8" type="text" x="22871.17379283953" y="-17715.897520076454" r="-3.8178855191722607" s="3.2979255018461697" class="body">
+      <height>309.96000000000004</height>
+      <width>537.4</width>
+      <p>
+        <text><![CDATA[We used Stahl’s framework for thinking about conversation as either:]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text color="4420372"><![CDATA[expository ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[reporting on work that had/was being been done ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text color="4420372"><![CDATA[exploratory ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[investigation of problems in the code, talk or debate about its utility]]></text>
+      </p>
+    </object>
+    <object id="3_7201233" type="button" x="-33843.53848096192" y="-4569.986473159086" r="3.817885519172267" s="6.61541545705413" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>654.8743320681014</w>
+        <h>494</h>
+      </size>
+    </object>
+    <object id="4_7201233" type="text" x="-33730.2760010259" y="-4520.258946602477" r="3.817885519172259" s="8.417183265023658" class="body">
+      <height>247.96800000000002</height>
+      <width>412.7</width>
+      <p>
+        <text color="8028290"><![CDATA[Make data manageable.]]></text>
+        <text><![CDATA[ Eliminate the noise, focus on the signal. Identify syntactic features that link to irrelevant narratives and spam - RTs, Links, @-replies, #'s.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[e.g. Just getting rid of top 3 irrelevant retweets ... that's over]]></text>
+        <text color="4420372"><![CDATA[ 20% ]]></text>
+        <text><![CDATA[of the data.]]></text>
+      </p>
+    </object>
+    <object id="5_7201233" type="button" x="-17036.727511032244" y="-2794.6075912356227" r="-11.887196858314011" s="3.172177925798946" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>800</w>
+        <h>620.1178003632972</h>
+      </size>
+    </object>
+    <object id="6_7201233" type="text" x="-17280.46673786141" y="-3136.7373206475636" r="-11.887196858314017" s="6.20597793796633" class="body">
+      <height>123.98400000000001</height>
+      <width>-274.896</width>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text color="8028290"><![CDATA[Colorado  theater shooting]]></text>
+      </p>
+    </object>
+    <object id="2_2607316" type="text" x="-27980.561287405595" y="-15089.604730291325" r="3.817885519172269" s="12.472618474952816" class="body">
+      <height>30.996000000000002</height>
+      <width>-872.928</width>
+      <p>
+        <text color="4420372"><![CDATA[@MarkHerzlich, @MensHumor, @NFL ... and a Stadium made of HAM *by Kate Perry]]></text>
+      </p>
+    </object>
+    <object id="3_2607316" type="text" x="-1670.3304297192935" y="13501.202810644443" r="0.27970394389477904" s="91.78123304189133" class="body">
+      <height>30.996000000000002</height>
+      <width>-83.88</width>
+      <p>
+        <text><![CDATA[797,128]]></text>
+      </p>
+    </object>
+    <object id="0_2612279" type="button" x="15405.842752875187" y="21817.69653323222" r="0.279703943894782" s="37.26510123534897" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+    </object>
+    <object id="1_2612279" type="text" x="15096.31241023781" y="18536.672410626907" r="0.2797039438947811" s="22.02028709361529" class="head">
+      <height>30</height>
+      <width>322.7</width>
+      <p align="center">
+        <text><![CDATA[And then we narrowed it down ...]]></text>
+      </p>
+    </object>
+    <object id="2_2612279" type="textwithplaceholder" x="15413.647050624868" y="20219.0427396074" r="0.27970394389478054" s="16.769295555907032" class="strong">
+      <placeholder text="Click to add text" x="-84.55" y="-14.4" align="left" width="169.15"/>
+    </object>
+    <object id="3_2612279" type="image" x="15405.842752875182" y="21817.69653323223" r="0.27970394389478287" s="9.74701777196234">
+      <source w="514" h="514">423986822<url>423986822.png</url></source>
+      <sourceUrl>radar.png</sourceUrl>
+    <resource><id>423986822</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/e/d/2fe8c520a74e410610de7e3ae236d9fb6d88c.png</url></resource></object>
+    <object id="4_2612279" type="text" x="15269.274570586153" y="21699.921347105148" r="0.2797039438947787" s="91.7812330418914" class="body">
+      <height>30.996000000000002</height>
+      <width>-39.24</width>
+      <p>
+        <text><![CDATA[500]]></text>
+      </p>
+    </object>
+    <object id="1_2615229" type="textwithplaceholder" x="-6434.605799777932" y="-21701.791284507646" r="3.81788551917226" s="33.911242124167565" class="head">
+      <placeholder text="Click to add text" x="-72.05" y="-15" align="left" width="144.1"/>
+    </object>
+    <object id="2_2615229" type="textwithplaceholder" x="-6592.317903477498" y="-19338.477942324884" r="3.817885519172256" s="23.477013778269864" class="strong">
+      <placeholder text="Click to add text" x="-84.55" y="-14.4" align="left" width="169.15"/>
+    </object>
+    <object id="0_2721274" type="button" x="16956.31913905353" y="4003.178909016263" r="11.568012616289048" s="3.194742830926505" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>3776.55737704918</w>
+        <h>714.5535498840441</h>
+      </size>
+    </object>
+    <object id="6_1398984" type="image" x="18977.849398659695" y="7027.849322504806" r="11.56801261628903" s="2.638827735730504">
+      <source w="670" h="770">465129656<url>465129656.png</url></source>
+      <sourceUrl>Screen%20Shot%202013-02-12%20at%2010.35.25%20AM.png</sourceUrl>
+    <resource><id>465129656</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/0/7/370bce158efa4dd374414809baec352dbc005.png</url></resource></object>
+    <object id="1_2721274" type="text" x="16140.453256013829" y="3337.765468465891" r="11.568012616289046" s="16.091975086909006" class="body">
+      <height>61.992000000000004</height>
+      <width>592.75</width>
+      <p>
+        <text><![CDATA[how to get richer data from a communication network by assigning multiple target nodes:]]></text>
+      </p>
+    </object>
+    <object id="0_15991189" type="text" x="16757.511285468965" y="4814.440949377326" r="11.568012616289026" s="14.47173425844887" class="body">
+      <height>61.992000000000004</height>
+      <width>786.4</width>
+      <p>
+        <text color="4420372"><![CDATA[we used qualitative methods (e.g. conversation analysis) to focus analysis on relations as they really exist]]></text>
+      </p>
+    </object>
+    <object id="3_15991189" type="text" x="-5053.615452386889" y="10315.38084272884" r="0.2797039438947805" s="8.654048854297592" class="body">
+      <height>61.992000000000004</height>
+      <width>512.8</width>
+      <p>
+        <text color="4420372"><![CDATA[This is big data, so to find the signal, you need to start with a theory]]></text>
+      </p>
+    </object>
+    <object id="3_475400" type="button" x="15789.813508213909" y="26257.993906647203" r="0.2797039438947813" s="1.5384840263459147" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>3527.773000859845</w>
+        <h>714.743673659951</h>
+      </size>
+    </object>
+    <object id="4_475400" type="text" x="15766.26737953784" y="26232.937781857305" r="0.27970394389480824" s="10.535106501960984" class="body">
+      <height>92.988</height>
+      <width>499.75</width>
+      <p>
+        <text><![CDATA[Game Play tweets: syntactically linked tweets ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[that describe a play roughly within 2 minutes of the event on the field]]></text>
+      </p>
+    </object>
+    <object id="5_475400" type="button" x="34019.431013966205" y="-23158.528391731204" r="-3.817885519172256" s="37.265101235348986" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>382.05743600511767</w>
+        <h>204.9850665226444</h>
+      </size>
+    </object>
+    <object id="6_475400" type="textwithplaceholder" x="34734.11949005412" y="-25740.44345891092" r="-3.8178855191722527" s="24.222315802976816" class="head">
+      <placeholder text="Click to add text" x="-72.05" y="-15" align="left" width="144.1"/>
+    </object>
+    <object id="7_475400" type="text" x="28362.306245173902" y="-24920.52489981156" r="-3.817885519172268" s="16.76929555590696" class="strong">
+      <height>28.8</height>
+      <width>-115.584</width>
+      <p>
+        <text><![CDATA[exploratory]]></text>
+      </p>
+    </object>
+    <object id="8_475400" type="text" x="30484.44817614103" y="-23788.455146853383" r="-3.8178855191722567" s="11.45365450167814" class="body">
+      <height>154.98000000000002</height>
+      <width>534.45</width>
+      <p>
+        <text color="4420372"><![CDATA["]]></text>
+        <text color="4605510"><![CDATA[the schema change looks good]]></text>
+      </p>
+      <p>
+        <text color="4605510"><![CDATA[the tests look good. I personally don't mix map and collect and just use map. I would probably extract the retrieval into a method in timestamp.rb.             (@carlosantoniodasilva what do you think?)"]]></text>
+      </p>
+    </object>
+    <object id="9_475400" type="text" x="35353.06016390318" y="-22999.257692618725" r="-3.817885519172268" s="16.76929555590696" class="strong">
+      <height>28.8</height>
+      <width>-102.14399999999998</width>
+      <p>
+        <text><![CDATA[expository]]></text>
+      </p>
+    </object>
+    <object id="10_475400" type="text" x="30561.555688280077" y="-22362.378902933397" r="-3.8178855191722567" s="11.45365450167814" class="body">
+      <height>61.992000000000004</height>
+      <width>531.35</width>
+      <p>
+        <text><![CDATA["Thanks but what's happening here is much deeper and this is just papering over the cracks."]]></text>
+      </p>
+    </object>
+    <object id="11_475400" type="text" x="37492.79545916637" y="-22037.750877669103" r="-3.81788551917226" s="11.45365450167814" class="body">
+      <height>123.98400000000001</height>
+      <width>509.25</width>
+      <p>
+        <text><![CDATA[“While working on an updated patch, I realized ... should be able to submit separate issues for these other items. Just wanted to get my current thoughts out here for anyone reviewing this.”]]></text>
+      </p>
+    </object>
+    <object id="12_475400" type="text" x="38777.3790580696" y="-20799.239232692693" r="-3.8178855191722554" s="8.181181786912962" class="body">
+      <height>30.996000000000002</height>
+      <width>-169.248</width>
+      <p>
+        <text color="4605510"><![CDATA[- often no target]]></text>
+      </p>
+    </object>
+    <object id="13_475400" type="text" x="-1535.018021747485" y="-13830.17040934938" r="0" s="212.0067272026851" class="body">
+      <height>30.996000000000002</height>
+      <width>-35.688</width>
+      <p align="center">
+        <text color="4420372"><![CDATA[BIG]]></text>
+      </p>
+    </object>
+    <object id="14_475400" type="text" x="2732.298880834539" y="14858.05140870798" r="0.2797039438947817" s="12.115668396016579" class="body">
+      <height>61.992000000000004</height>
+      <width>-194.04000000000002</width>
+      <p>
+        <text><![CDATA[tweets]]></text>
+      </p>
+      <p>
+        <text color="4420372"><![CDATA[#superbowl, #sb46]]></text>
+      </p>
+    </object>
+    <object id="15_475400" type="text" x="17361.119803167163" y="24105.92022882961" r="0.27970394389477965" s="12.115668396016574" class="body">
+      <height>30.996000000000002</height>
+      <width>-68.4</width>
+      <p>
+        <text><![CDATA[tweets]]></text>
+      </p>
+    </object>
+    <object id="0_391084" type="text" x="19660.18461364917" y="22068.714110554298" r="0.27970394389477965" s="12.115668396016575" class="body">
+      <height>61.992000000000004</height>
+      <width>209.4</width>
+      <p>
+        <text color="4420372"><![CDATA[30 - 500 game-play tweets per event]]></text>
+      </p>
+    </object>
+    <object id="0_641463" type="button" x="-1886.488692305958" y="21801.416818019712" r="0.27970394389478204" s="37.26510123534896" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+    </object>
+    <object id="1_641463" type="textwithplaceholder" x="-1870.4798309083776" y="18526.161460005755" r="0.2797039438947829" s="24.222315802976816" class="head">
+      <placeholder text="Click to add text" x="-72.05" y="-15" align="left" width="144.1"/>
+    </object>
+    <object id="2_641463" type="textwithplaceholder" x="-1878.6843945562669" y="20202.763024394884" r="0.2797039438947808" s="16.769295555907014" class="strong">
+      <placeholder text="Click to add text" x="-84.55" y="-14.4" align="left" width="169.15"/>
+    </object>
+    <object id="3_641463" type="text" x="-1773.4293427025198" y="21967.301593343633" r="0.2797039438947829" s="24.222315802976816" class="body">
+      <height>340.956</height>
+      <width>542.15</width>
+      <p>
+        <text color="4605510"><![CDATA[Theory: what was being said about Super Bowl that was of utility to event detection might look something like an information grounds or a third place where people gather (around a hashtag, a "place") for a focal activity and share everyday information]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text color="4605510"><![CDATA[what we found was a relatively obscure group of people tweeting about the same thing, what was actually going on during the game - on the field - at the same time.]]></text>
+      </p>
+    </object>
+    <object id="2_614607" type="button" x="34855.48509600799" y="-10729.667267446244" r="-3.8178855191722554" s="37.265101235348986" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+    </object>
+    <object id="5_614607" type="image" x="33631.552374220344" y="-11316.81544723646" r="-3.817885519172258" s="10.776681341272472">
+      <source w="1068" h="822">457999554<url>457999554.png</url></source>
+      <sourceUrl>Screen%20Shot%202013-02-07%20at%201.19.33%20PM.png</sourceUrl>
+    <resource><id>457999554</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/b/f/5b07b01b12226b9ffe8659902c2feb198fcb0.png</url></resource></object>
+    <object id="3_614607" type="text" x="30240.931009279313" y="-14396.724826821754" r="-3.8178855191722576" s="21.31965260725089" class="head">
+      <height>60</height>
+      <width>-211.94400000000002</width>
+      <p>
+        <text><![CDATA[communication network ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[graph]]></text>
+      </p>
+    </object>
+    <object id="4_614607" type="text" x="35421.06680941917" y="-6370.895619433205" r="-3.817885519172256" s="16.76929555590702" class="strong">
+      <height>57.6</height>
+      <width>613.55</width>
+      <p>
+        <text><![CDATA[shows relations as they really exist & w time series, multiple snap shots that reveal distributed leadership]]></text>
+      </p>
+    </object>
+    <object id="0_1985098" type="button" x="-20527.624955976793" y="4121.574527599341" r="-11.887196858314034" s="0.9722083407187369" class="circle">
+      <type>circle</type>
+      <size>
+        <w>865.8502008020878</w>
+        <h>865.8502008020878</h>
+      </size>
+    </object>
+    <object id="0_1392526" type="text" x="-20471.45659825073" y="4297.380732832905" r="-11.887196858314038" s="1.7021477384709378" class="body">
+      <height>61.992000000000004</height>
+      <width>-339.59999999999997</width>
+      <p>
+        <text><![CDATA[limited use of affordances]]></text>
+      </p>
+      <p>
+        <text><![CDATA[syntactic feature is text & syntax]]></text>
+      </p>
+    </object>
+    <object id="7_1398984" type="button" x="7942.561777253111" y="-522.0525036991355" r="11.568012616289046" s="10.25033237302769" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>466.2375946044922</w>
+        <h>300</h>
+      </size>
+    </object>
+    <object id="10_1398984" type="image" x="7884.6651580001135" y="-989.1856296809711" r="11.568012616289046" s="3.141786524958337">
+      <source w="1446" h="164">465133346<url>465133346.png</url></source>
+      <sourceUrl>Screen%20Shot%202013-02-12%20at%2010.37.35%20AM.png</sourceUrl>
+    <resource><id>465133346</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/9/2/31b518e8a0011bbf8bf0150cbd0cdccdcfec1.png</url></resource></object>
+    <object id="8_1398984" type="textwithplaceholder" x="8456.646234650481" y="-1340.695787844971" r="11.568012616289048" s="6.662716042467997" class="head">
+      <placeholder text="Click to add text" x="-72.05" y="-15" align="left" width="144.1"/>
+    </object>
+    <object id="9_1398984" type="textwithplaceholder" x="8363.326104346568" y="-884.7834936210153" r="11.56801261628904" s="4.612649567862458" class="strong">
+      <placeholder text="Click to add text" x="-84.55" y="-14.4" align="left" width="169.15"/>
+    </object>
+  </zui-table>
+  <background>
+    <layer depth="48.51455354924014" fadescale="0.04534721725857164">
+      <object id="background340340629" type="image" x="-3025.6954298595706" y="-2266.4864831579425" r="0" s="86.33907891000715">
+        <source w="2000" h="1150">340340629<url>340340629.jpg</url></source>
+        <sourceUrl>004.jpg</sourceUrl>
+      <resource><id>340340629</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/8/a/6f45fef51fb0e757b5c5cb18e49cadc55f0a5.jpg</url></resource></object>
+    </layer>
+  </background>
+  <path>
+    <s>
+      <eagle o="32_2475237"/>
+    </s>
+    <s>
+      <eagle o="1_15991189"/>
+    </s>
+    <s>
+      <eagle o="12_4225793"/>
+    </s>
+    <s>
+      <eagle o="0_641463"/>
+    </s>
+    <s>
+      <eagle o="23_2648233"/>
+    </s>
+    <s>
+      <eagle o="3_7201233"/>
+    </s>
+    <s>
+      <eagle o="0_2612279"/>
+    </s>
+    <s>
+      <eagle o="3_475400"/>
+    </s>
+    <s>
+      <eagle o="0_4225793"/>
+    </s>
+    <s>
+      <eagle o="0_1985098"/>
+    </s>
+    <s>
+      <eagle o="5_7201233"/>
+    </s>
+    <s>
+      <eagle o="9_4225793"/>
+    </s>
+    <s>
+      <eagle o="2_1398984"/>
+    </s>
+    <s>
+      <eagle o="0_1398984"/>
+    </s>
+    <s>
+      <eagle o="5"/>
+    </s>
+    <s>
+      <eagle o="5_475400"/>
+    </s>
+    <s>
+      <eagle o="15_4225793"/>
+    </s>
+    <s>
+      <eagle o="2_614607"/>
+    </s>
+    <s>
+      <eagle o="32_2475237"/>
+    </s>
+    <s>
+      <eagle o="2_2648233"/>
+    </s>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('PTSans.swf');
+	fontFamily: body;
+	font-class: body;
+	font-style: normal;
+	font-weight: normal;
+	font-family: PTSans;
+}
+
+@font-face
+{
+	src: url('LobsterTwo.swf');
+	fontFamily: head;
+	font-class: head;
+	font-style: normal;
+	font-weight: normal;
+	font-family: LobsterTwo;
+}
+
+@font-face
+{
+	src: url('JosefinSlab.swf');
+	fontFamily: strong;
+	font-class: strong;
+	font-style: normal;
+	font-weight: normal;
+	font-family: JosefinSlab;
+}
+
+@font-face
+{
+	src: url('PTSans-I.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: PTSans;
+}
+
+@font-face
+{
+	src: url('PTSans-BI.keg');
+	font-style: italic;
+	font-weight: bold;
+	font-family: PTSans;
+}
+
+@font-face
+{
+	src: url('PTSans-B.keg');
+	font-style: normal;
+	font-weight: bold;
+	font-family: PTSans;
+}
+
+@font-face
+{
+	src: url('LobsterTwo-BI.keg');
+	font-style: italic;
+	font-weight: bold;
+	font-family: LobsterTwo;
+}
+
+@font-face
+{
+	src: url('LobsterTwo-B.keg');
+	font-style: normal;
+	font-weight: bold;
+	font-family: LobsterTwo;
+}
+
+@font-face
+{
+	src: url('LobsterTwo-I.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: LobsterTwo;
+}
+
+@font-face
+{
+	src: url('JosefinSlab-B.keg');
+	font-style: normal;
+	font-weight: bold;
+	font-family: JosefinSlab;
+}
+
+@font-face
+{
+	src: url('JosefinSlab-I.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: JosefinSlab;
+}
+
+@font-face
+{
+	src: url('JosefinSlab-BI.keg');
+	font-style: italic;
+	font-weight: bold;
+	font-family: JosefinSlab;
+}
+
+.line1
+{
+	color: #e0610c;
+	gradEndColor: #e0610c;
+	gradStartColor: #e0610c;
+}
+
+.line2
+{
+	color: #717171;
+	gradEndColor: #717171;
+	gradStartColor: #717171;
+}
+
+.line3
+{
+	color: #03c2c9;
+	gradEndColor: #03c2c9;
+	gradStartColor: #03c2c9;
+}
+
+.line4
+{
+	color: #d04141;
+	gradEndColor: #d04141;
+	gradStartColor: #d04141;
+}
+
+.line5
+{
+	color: #000;
+	gradEndColor: #000;
+	gradStartColor: #000;
+}
+
+.poly1
+{
+	borderColor: #e0610c;
+	borderThickness: 9;
+	gradEndColor: #f0f0f0;
+	gradStartColor: #f0f0f0;
+}
+
+.poly2
+{
+	borderColor: #e0610c;
+	gradEndColor: #e0610c;
+	gradStartColor: #e0610c;
+}
+
+.poly3
+{
+	borderColor: #03c2c9;
+	borderThickness: 9;
+	gradEndColor: #f0f0f0;
+	gradStartColor: #f0f0f0;
+}
+
+.poly4
+{
+	borderColor: #03c2c9;
+	gradEndColor: #03c2c9;
+	gradStartColor: #03c2c9;
+}
+
+.poly5
+{
+	borderColor: #000;
+	borderThickness: 9;
+	gradEndColor: #f0f0f0;
+	gradStartColor: #f0f0f0;
+}
+
+Background
+{
+	gradEnd: #c2c0c6;
+	gradStart: #969396;
+}
+
+Grid
+{
+	color: #d6d2d8;
+}
+
+ZArrow
+{
+	borderAlpha: 0;
+	borderColor: #f8981d;
+	borderThickness: 0;
+	color: #f8981d;
+	gradEndAlpha: 1;
+	gradEndColor: #f8981d;
+	gradStartAlpha: 1;
+	gradStartColor: #f8981d;
+	lockTintAlpha: 0;
+	lockTintColor: #f8981d;
+	radius: 0;
+	thickness: 10;
+}
+
+ZCircle
+{
+	borderAlpha: 1;
+	borderColor: #008080;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradEndColor: #008080;
+	gradStartAlpha: 1;
+	gradStartColor: #008080;
+	lockTintAlpha: 0;
+	lockTintColor: #ffffe6;
+	radius: 0;
+	thickness: 100;
+}
+
+ZCurveLine
+{
+	alpha: 1;
+	color: #000;
+	thickness: 2;
+}
+
+ZFrame.bracket
+{
+	borderAlpha: 0;
+	gradEndAlpha: 1;
+	gradEndColor: #000;
+	gradStartAlpha: 1;
+	gradStartColor: #000;
+	thickness: 5;
+}
+
+ZFrame.circle
+{
+	gradEndAlpha: 1;
+	gradEndColor: #000;
+	gradStartAlpha: 1;
+	gradStartColor: #000;
+	thickness: 5;
+}
+
+ZFrame.roundrect
+{
+	borderAlpha: 0.1;
+	borderColor: #000;
+	borderThickness: 1;
+	gradEndAlpha: 0.8;
+	gradEndColor: #fff;
+	gradStartAlpha: 0.6;
+	gradStartColor: #fff;
+	radius: 0;
+}
+
+ZLabel
+{
+	padding: 1.2;
+}
+
+ZLabel.body
+{
+	color: #000;
+	fontFamily: body;
+}
+
+ZLabel.head
+{
+	color: #000;
+	fontFamily: head;
+}
+
+ZLabel.strong
+{
+	color: #464646;
+	fontFamily: strong;
+}
+
+ZLine
+{
+	borderColor: #f8981d;
+	color: #f8981d;
+	gradEndColor: #f8981d;
+	gradStartColor: #f8981d;
+	lockTintAlpha: 0;
+}
+
+ZMarker
+{
+	alpha: 0.5;
+	color: #eee10b;
+	thickness: 25;
+}
+
+ZPath
+{
+	alpha: 1;
+	color: #40abe6;
+	textColor: #fff;
+	thickness: 3;
+}
+
+ZPath Ball.base
+{
+	alpha: 1;
+	fillColor: #40abe6;
+	radius: 12;
+}
+
+ZPath Ball.mid
+{
+	alpha: .5;
+	fillColor: #40abe6;
+	radius: 8;
+}
+
+ZPoly
+{
+	borderAlpha: 1;
+	borderColor: #f8981d;
+	borderThickness: 0;
+	color: #f8981d;
+	gradEndAlpha: 1;
+	gradEndColor: #f8981d;
+	gradStartAlpha: 1;
+	gradStartColor: #f8981d;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+arrow
+{
+	borderColor: #fff;
+	borderThickness: -1;
+	gradEndColor: #fff808;
+	gradStartColor: #fff808;
+}
+
+background
+{
+	gradEnd: #808080;
+	gradStart: #808080;
+}
+
+circle
+{
+	borderAlpha: 1;
+	lockTintAlpha: 0.6;
+	radius: 0;
+	thickness: 100;
+}
+
+frame.bracket
+{
+	borderColor: #fff;
+	borderThickness: 0;
+	gradEndColor: #c5c3c3;
+	gradStartColor: #fff;
+	thickness: 7;
+}
+
+frame.circle
+{
+	borderColor: #999;
+	borderThickness: 0;
+	gradEndColor: #333;
+	gradStartColor: #333;
+}
+
+frame.rectangle
+{
+	borderColor: #fff;
+	borderThickness: 0;
+	gradEndColor: #000;
+	gradStartColor: #000;
+	radius: 0;
+}
+
+free-line
+{
+	color: #fff808;
+}
+
+free-marker
+{
+	alpha: 0.3;
+	color: #ffff0d;
+}
+
+grid
+{
+	color: #ddd;
+}
+
+line
+{
+	color: #fff808;
+}
+
+line-arrow.style1
+{
+	color: #fff;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+line-arrow.style2
+{
+	color: #c5c3c3;
+	gradEndColor: #c5c3c3;
+	gradStartColor: #c5c3c3;
+}
+
+line-arrow.style3
+{
+	color: #fff808;
+	gradEndColor: #fff808;
+	gradStartColor: #fff808;
+}
+
+line-arrow.style4
+{
+	color: #333;
+	gradEndColor: #333;
+	gradStartColor: #333;
+}
+
+line-arrow.style5
+{
+	color: #000;
+	gradEndColor: #000;
+	gradStartColor: #000;
+}
+
+shape
+{
+	borderAlpha: 1;
+	gradEndAlpha: 0.8;
+	gradStartAlpha: 0.7;
+	lockTintAlpha: 0.6;
+	radius: 0;
+	thickness: 100;
+}
+
+shape.style1
+{
+	borderColor: #fff;
+	borderThickness: 0;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+shape.style2
+{
+	borderColor: #c5c3c3;
+	borderThickness: 0;
+	gradEndColor: #c5c3c3;
+	gradStartColor: #c5c3c3;
+}
+
+shape.style3
+{
+	borderColor: #fff808;
+	borderThickness: 0;
+	gradEndColor: #fff808;
+	gradStartColor: #fff808;
+}
+
+shape.style4
+{
+	borderColor: #333;
+	borderThickness: 0;
+	gradEndColor: #333;
+	gradStartColor: #333;
+}
+
+shape.style5
+{
+	borderColor: #000;
+	borderThickness: 0;
+	gradEndColor: #000;
+	gradStartColor: #000;
+}
+
+text
+{
+	padding: 1.2;
+}
+
+text.body
+{
+	color: #fff;
+	fontFamily: body;
+}
+
+text.subtitle
+{
+	color: #fff;
+	fontFamily: strong;
+}
+
+text.title
+{
+	color: #fff808;
+	fontFamily: head;
+}
+
+]]></style>
+  <hash>4a055a76</hash>
+<sync><oid>lk9gxcgqanhk</oid><title>copy-of-iconference</title><hash>4a055a76</hash></sync><config>AYl4Q/oh/B/09HwxEdfDILcO5igt7BEhR3u+q0/cxJIj1jXpIp6DBZMUkqmCfAwowAkqkFg283yuGtW9fwd6IUntXFeDiRZzMh5/L410Mf7aaAlSmbK3VjDejUXrCnUgzZGvHteNquNJvn6XyGpqpP3WeWq/96m8HHpd0ZFWuOx88hiI+BZs1YUKMLKvFJegbfQe213dIf474T5JatZG9euu7YDXGGZYZTEq1vE63/aj0E55m/NsRbkVFeiWHlyDsu8q6eL0DhNw5C78jS1OCMbeKjxXSRb+B6H8bSevp0iS24j7k0MVQn6tilQMbDS0bsNqxA/LUwiq4jwAPa7mUA==</config></zuiprezi>
