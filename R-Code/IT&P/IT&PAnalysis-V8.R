@@ -5,8 +5,10 @@ rm(list=ls(all=TRUE))
 library(igraph)
 library(ggplot2)
 library(blockmodeling)
-igraph.par("print.vertex.attributes", TRUE)
-igraph.par("print.edge.attributes", TRUE)
+igraph.options(print.vertex.attributes = TRUE)
+igraph.options(print.edge.attributes = TRUE)
+
+
 
 
 # Change working directory to the root "Misc | Change Working directory"
@@ -49,12 +51,12 @@ V(mod3)[ x == 4 ]$shape <- "circle"
 V(mod3)[ x == 5 ]$shape <- "square"
 V(mod3)[ x == 6 ]$shape <- "csquare"
 
-V(mod3)[ x == 1 ]$color <- "black"
-V(mod3)[ x == 2 ]$color <- "blue"
-V(mod3)[ x == 3 ]$color <- "orange"
-V(mod3)[ x == 4 ]$color <- "green"
-V(mod3)[ x == 5 ]$color <- "purple"
-V(mod3)[ x == 6 ]$color <- "white"
+V(mod3)[ x == 1 ]$color <- gray(0)
+V(mod3)[ x == 2 ]$color <- gray(.2)
+V(mod3)[ x == 3 ]$color <- gray(.4)
+V(mod3)[ x == 4 ]$color <- gray(.6)
+V(mod3)[ x == 5 ]$color <- gray(.8)
+V(mod3)[ x == 6 ]$color <- gray(1)
 
 V(mod3)$labelcolor <- "black"
 
@@ -62,8 +64,8 @@ V(mod3)$labelcolor <- "black"
 V(mod3)[ x == 1 ]$label.color <- "white"
 V(mod3)[ x == 2 ]$label.color <- "white"
 V(mod3)[ x == 3 ]$label.color <- "white"
-V(mod3)[ x == 4 ]$label.color <- "black"
-V(mod3)[ x == 5 ]$label.color <- "white"
+V(mod3)[ x == 4 ]$label.color <- "white"
+V(mod3)[ x == 5 ]$label.color <- "black"
 V(mod3)[ x == 6 ]$label.color <- "black"
 
 
@@ -88,12 +90,12 @@ V(mod4)[ x == 4 ]$shape <- "circle"
 V(mod4)[ x == 5 ]$shape <- "square"
 V(mod4)[ x == 6 ]$shape <- "csquare"
 
-V(mod4)[ x == 1 ]$color <- "black"
-V(mod4)[ x == 2 ]$color <- "blue"
-V(mod4)[ x == 3 ]$color <- "orange"
-V(mod4)[ x == 4 ]$color <- "green"
-V(mod4)[ x == 5 ]$color <- "purple"
-V(mod4)[ x == 6 ]$color <- "white"
+V(mod4)[ x == 1 ]$color <- gray(0)
+V(mod4)[ x == 2 ]$color <- gray(.2)
+V(mod4)[ x == 3 ]$color <- gray(.4)
+V(mod4)[ x == 4 ]$color <- gray(.6)
+V(mod4)[ x == 5 ]$color <- gray(.8)
+V(mod4)[ x == 6 ]$color <- gray(1)
 
 V(mod4)$labelcolor <- "black"
 
@@ -101,8 +103,8 @@ V(mod4)$labelcolor <- "black"
 V(mod4)[ x == 1 ]$label.color <- "white"
 V(mod4)[ x == 2 ]$label.color <- "white"
 V(mod4)[ x == 3 ]$label.color <- "white"
-V(mod4)[ x == 4 ]$label.color <- "black"
-V(mod4)[ x == 5 ]$label.color <- "white"
+V(mod4)[ x == 4 ]$label.color <- "white"
+V(mod4)[ x == 5 ]$label.color <- "black"
 V(mod4)[ x == 6 ]$label.color <- "black"
 
 
@@ -119,7 +121,6 @@ E(mod4)$arrow.size <-0.4
 # Mod 5
 V(mod5)$label <- V(mod5)$id
 V(mod5)$shape <- "none"
-
 V(mod5)[ x == 1 ]$shape <- "vrectangle"
 V(mod5)[ x == 2 ]$shape <- "crectangle"
 V(mod5)[ x == 3 ]$shape <- "rectangle"
@@ -127,12 +128,12 @@ V(mod5)[ x == 4 ]$shape <- "circle"
 V(mod5)[ x == 5 ]$shape <- "square"
 V(mod5)[ x == 6 ]$shape <- "csquare"
 
-V(mod5)[ x == 1 ]$color <- "black"
-V(mod5)[ x == 2 ]$color <- "blue"
-V(mod5)[ x == 3 ]$color <- "orange"
-V(mod5)[ x == 4 ]$color <- "green"
-V(mod5)[ x == 5 ]$color <- "purple"
-V(mod5)[ x == 6 ]$color <- "white"
+V(mod5)[ x == 1 ]$color <- gray(0)
+V(mod5)[ x == 2 ]$color <- gray(.2)
+V(mod5)[ x == 3 ]$color <- gray(.4)
+V(mod5)[ x == 4 ]$color <- gray(.6)
+V(mod5)[ x == 5 ]$color <- gray(.8)
+V(mod5)[ x == 6 ]$color <- gray(1)
 
 V(mod5)$labelcolor <- "black"
 
@@ -140,11 +141,9 @@ V(mod5)$labelcolor <- "black"
 V(mod5)[ x == 1 ]$label.color <- "white"
 V(mod5)[ x == 2 ]$label.color <- "white"
 V(mod5)[ x == 3 ]$label.color <- "white"
-V(mod5)[ x == 4 ]$label.color <- "black"
-V(mod5)[ x == 5 ]$label.color <- "white"
+V(mod5)[ x == 4 ]$label.color <- "white"
+V(mod5)[ x == 5 ]$label.color <- "black"
 V(mod5)[ x == 6 ]$label.color <- "black"
-
-
 
 
 # spinglass.community(mod5, spins=6)
@@ -199,7 +198,7 @@ E(mod6)$arrow.size <-0.4
 		dev.off()
 
 
-# Spring ALL ==========================================
+# Fruchterman-Reingold ALL ==========================================
 
 		filename=paste("output/","springAll","b.pdf")
 		pdf(filename)
@@ -210,44 +209,22 @@ E(mod6)$arrow.size <-0.4
 		E(mod5)$width <- (E(mod5)$weight/23)
 		E(mod6)$width <- (E(mod6)$weight/23)
 
-		plot.igraph(mod3, main="mod3", vertex.label.cex=.7, layout=layout.spring(mod3, repulse=TRUE, repeqdis=1, mass=.72))
-		plot.igraph(mod4, main="mod4", vertex.label.cex=.7, layout=layout.spring(mod4, repulse=TRUE, repeqdis=1, mass=.72))
-		plot.igraph(mod5, main="mod5", vertex.label.cex=.7, layout=layout.spring(mod5, repulse=TRUE, repeqdis=1, mass=.72))
-		plot.igraph(mod6, main="mod6", vertex.label.cex=.7, layout=layout.spring(mod6, repulse=TRUE, repeqdis=1, mass=.72))
+		plot.igraph(mod3, main="mod3", vertex.label.cex=.7, layout=layout.Fruchterman-Reingold(mod3, repulse=TRUE, repeqdis=1, mass=.72))
+		plot.igraph(mod4, main="mod4", vertex.label.cex=.7, layout=layout.Fruchterman-Reingold(mod4, repulse=TRUE, repeqdis=1, mass=.72))
+		plot.igraph(mod5, main="mod5", vertex.label.cex=.7, layout=layout.Fruchterman-Reingold(mod5, repulse=TRUE, repeqdis=1, mass=.72))
+		plot.igraph(mod6, main="mod6", vertex.label.cex=.7, layout=layout.Fruchterman-Reingold(mod6, repulse=TRUE, repeqdis=1, mass=.72))
 		dev.off()
-		
-# Reingold Tilford ===================================
 
-		filename=paste("output/","module3","b.pdf")
-		pdf(filename)
-		plot.igraph(mod3, vertex.label.cex=.7, layout=layout.reingold.tilford)
-		dev.off()
-		
-		filename=paste("output/","module4","b.pdf")
-		pdf(filename)
-		plot.igraph(mod4, vertex.label.cex=.7, layout=layout.reingold.tilford)
-		dev.off()
-		
-		filename=paste("output/","module5","b.pdf")
-		pdf(filename)
-#		layout.mds(mod5)
-		plot.igraph(mod5,vertex.label.cex=.7, layout=layout.reingold.tilford)
-		dev.off()
-		
-		filename=paste("output/","module6","b.pdf")
-		pdf(filename)
-		plot.igraph(mod6, vertex.label.cex=.7, layout=layout.reingold.tilford)
-		dev.off()
 
 # Kawai ALL ==========================================
 
 		filename=paste("output/","KawaiAll","b.pdf")
 		pdf(filename)
 		# repulse=TRUE, repeqdis=.07, 
-		plot.igraph(mod3, main="mod3", vertex.label.cex=.7, layout=layout.kamada.kawai(mod3, inittemp=33, weights=sqrt(E(mod3)$weight+.01)))
-		plot.igraph(mod4, main="mod4", vertex.label.cex=.7, layout=layout.kamada.kawai(mod4, inittemp=33, weights=sqrt(E(mod4)$weight+.01)))
-		plot.igraph(mod5, main="mod5", vertex.label.cex=.7, layout=layout.kamada.kawai(mod5, inittemp=33, weights=sqrt(E(mod5)$weight+.01)))
-		plot.igraph(mod6, main="mod6", vertex.label.cex=.7, layout=layout.kamada.kawai(mod6, inittemp=33, weights=sqrt(E(mod6)$weight+.01)))
+		plot.igraph(mod3, main="mod3", vertex.label.cex=.7, layout=layout.kamada.kawai(mod3,  weights=sqrt(E(mod3)$weight+.01)))
+		plot.igraph(mod4, main="mod4", vertex.label.cex=.7, layout=layout.kamada.kawai(mod4,  weights=sqrt(E(mod4)$weight+.01)))
+		plot.igraph(mod5, main="mod5", vertex.label.cex=.7, layout=layout.kamada.kawai(mod5,  weights=sqrt(E(mod5)$weight+.01)))
+		plot.igraph(mod6, main="mod6", vertex.label.cex=.7, layout=layout.kamada.kawai(mod6,  weights=sqrt(E(mod6)$weight+.01)))
 		dev.off()
 
 # spinglass communities
