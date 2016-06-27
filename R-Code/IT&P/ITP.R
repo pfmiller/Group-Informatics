@@ -8,16 +8,8 @@ library(blockmodeling)
 igraph.options(print.vertex.attributes = TRUE)
 igraph.options(print.edge.attributes = TRUE)
 
-
-
-
-# Change working directory to the root "Misc | Change Working directory"
-
-##=====================LOAD DATA============================================
-#READS
-# disAll <- read.graph("NWB/v26read.xml", format="graphml")
-#NEWS
-# disNew <- read.graph("NWB/v26new.xml", format="graphml")
+# Setting the working directory
+setwd("~/GitHub/Group-Informatics/R-Code/IT&P")
 
 
 mod3<- read.graph("mod3d.net", format="pajek")
@@ -260,13 +252,3 @@ V(mod6)$color <- gray(grayer6)
 
 		dev.off()
 
-
-## =====================Block Modeling============================================
-
-filename = paste("output/", "blockmod.pdf")
-pdf(filename)
-gplot1(mod3m, boxed.labels=TRUE)
-gplot1(mod4m, boxed.labels=TRUE)
-gplot1(mod5m, boxed.labels=TRUE)
-gplot1(mod6m, boxed.labels=TRUE)
-dev.off()
