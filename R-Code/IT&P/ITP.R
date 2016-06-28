@@ -4,7 +4,7 @@ rm(list=ls(all=TRUE))
 library(igraph)
 library(ggplot2)
 library(blockmodeling)
-igraph.options(print.vertex.attributes = TRUE)
+igraph.options(print.vertex.attributes = TRUE)  
 igraph.options(print.edge.attributes = TRUE)
 
 # Setting the working directory

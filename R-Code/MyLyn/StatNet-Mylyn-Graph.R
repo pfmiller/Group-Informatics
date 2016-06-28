@@ -2,7 +2,7 @@ rm(list=ls(all=TRUE))
 
 library(network)
 library(statnet)
-library(MASS)
+library(MASS)  
 
 ####################################################################
 # Read the Data in

@@ -1,7 +1,7 @@
 rm(list=ls(all=TRUE))
 
 library(network)
-library(statnet)
+library(statnet)  
 library(MASS)
 
 ####################################################################
