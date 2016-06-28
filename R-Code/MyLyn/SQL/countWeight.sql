@@ -1,0 +1,1 @@
+select toD,person_id as source, fromD.person_id as target,sum(distance) from mylyn.context_overlap a, research_bug_comment_people bLEFT JOIN research_bug_comment_people toD on toD.attacher1 = b.person LEFT JOIN research_bug_comment_people fromD on toFrom.attacher2 = b.person group by source, targetorder by sum(distance) desc/* attacher1, attacher2*/

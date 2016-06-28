@@ -1,0 +1,1 @@
+select count(*), releaseIdfrom research_comment_by_releasegroup by releaseID

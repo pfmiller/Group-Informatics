@@ -1,0 +1,1 @@
+select bug_id,  datediff((max(created_ts)),(min(created_ts))) as difference from commentgroup by bug_idorder by difference desc

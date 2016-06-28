@@ -1,0 +1,1 @@
+select person_id, concat(char(34), person, char(34)), 0from research_bug_comment_people

@@ -1,0 +1,1 @@
+select * from research_comment_attachmentwhere author_id not in (select assigned_id from research_bug_fixer_people)

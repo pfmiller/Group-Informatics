@@ -1,0 +1,1 @@
+select  assigned_id, author_id, commentTS, releaseId from research_comments_by_release_non_attachmentsorder by commentTS

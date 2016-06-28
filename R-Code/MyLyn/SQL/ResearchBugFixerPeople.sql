@@ -1,0 +1,1 @@
+create table research_bug_fixer_people asselect distinct assigned_name, assigned_id, count(*) as counter from buggroup by assigned_name, assigned_idorder by counter desc

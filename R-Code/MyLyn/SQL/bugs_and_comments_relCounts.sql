@@ -1,0 +1,1 @@
+create table research_bug_comment_count as(select b.author_id, a.assigned_id, count(*) youCountfrom bug a, comment b, bug_comment_people cwhere a.bug_id=b.bug_id anda.bug_status = 'RESOLVED' and a.resolution='FIXED'group by a.assigned_id, b.author_idorder by youCount desc)

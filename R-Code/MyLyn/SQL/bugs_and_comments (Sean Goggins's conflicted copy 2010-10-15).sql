@@ -1,0 +1,1 @@
+select a.bug_id, a.bug_status, a.resolution,  a.assigned_id, b.author_idfrom bug a, comment bwhere a.bug_id=b.bug_id anda.bug_status = 'RESOLVED' and a.resolution='FIXED'order by a.assigned_id

@@ -1,0 +1,1 @@
+select target.person_id as atarget, source.person_id as asource,sum(co.distance) fromresearch_bug_comment_people target,research_bug_comment_people source,context_overlap cowhere source.person = co.attacher1 andtarget.person = co.attacher2group by asource, atargetorder by sum(distance) desc

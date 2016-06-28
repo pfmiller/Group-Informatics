@@ -1,0 +1,1 @@
+select a.bug_id from(select distinct(bug_ID) from research_comment_comment where author_id in (select assigned_id from research_bug_fixer_people)group by bug_id) a INNER JOIN(select distinct(bug_ID) from research_comment_comment where author_id not in (select assigned_id from research_bug_fixer_people)group by bug_id) bUSING (bug_id)

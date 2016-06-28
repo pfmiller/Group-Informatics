@@ -1,0 +1,1 @@
+select bug_id, count(*) as counter from research_comment_comment where author_id not in (select assigned_id from research_bug_fixer_people)group by bug_idorder by counter desc
